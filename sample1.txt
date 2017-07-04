@@ -1,4 +1,9 @@
 line1
 line2
+<<<<<<< HEAD
 line9
 line5
+=======
+line12
+line14
+>>>>>>> bugfix2
